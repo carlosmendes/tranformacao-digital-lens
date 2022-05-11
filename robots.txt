@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://carlosmendes.github.io/tranformacao-digital-lens/sitemap.xml
